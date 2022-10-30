@@ -12,7 +12,7 @@ has_children: false
 ## Default
 
 |:-----------------:|:-----------------:|:-----------------:|
-| ![](https://ac2.namu.la/20221028sac2/e1cc846b32eaf9743a4da12f47a0e70cdfda39e068d47aa4ca0799bf80033ad8.png) | ![](https://ac2.namu.la/20221028sac2/9ccf042810be8f4b9737d88e73d10ce10ee745e8ac25024b6fe716e206cb0b88.png) | ![](https://ac.namu.la/20221028sac/5667a8b432e2b94bc461519b9807cd2b3d285f24823b814e38d41b754075d583.png) |
+| ![](../../assets/images/e1cc846b32eaf9743a4da12f47a0e70cdfda39e068d47aa4ca0799bf80033ad8.webp) | ![](https://ac2.namu.la/20221028sac2/9ccf042810be8f4b9737d88e73d10ce10ee745e8ac25024b6fe716e206cb0b88.png) | ![](https://ac.namu.la/20221028sac/5667a8b432e2b94bc461519b9807cd2b3d285f24823b814e38d41b754075d583.png) |
  
  
 No hypernetwork
