@@ -1,2 +1,10 @@
-title: "sdwiki"
+title: "SD Wiki"
 remote_theme: just-the-docs/just-the-docs
+# Aux links for the upper right navigation
+aux_links:
+  "sdupdates on GitHub":
+    - "//github.com/questianon/sdupdates"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+color_scheme: dark
