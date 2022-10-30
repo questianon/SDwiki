@@ -1,3 +1,10 @@
+---
+layout: default
+title: Embeddings
+nav_order: 2
+has_children: false
+---
+
 <h1 align="center">Stable Diffusion Embeddings</h1>
 
 <p align="center">This is a list of many embeddings </p>
