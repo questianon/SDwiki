@@ -1,4 +1,4 @@
-# SDwiki
-a comprehensive wiki for Stable Diffusion
+<h1 style="text-align: center;">SD Wiki</h1>
 
-the first steps to a fully comprehensive and up to date wiki for all things SD
+<p style="text-align: center;">
+This is a fully comprehensive and up to date wiki for all things Stable Diffusion. </p>
